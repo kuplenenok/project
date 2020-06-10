@@ -1,0 +1,2 @@
+C:\Users\zernm\source\repos\Comi\Debug\Comi.exe
+C:\Users\zernm\source\repos\Comi\Debug\Comi.pdb
